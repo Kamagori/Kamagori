@@ -1,5 +1,5 @@
 
-### Olá! Me chamo Marcos Biscotto 🗿🍷
+### Hi there! My name is Marcos Biscotto 🗿🍷
 
 ![Kamagori's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamagori&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamagori&theme=tokyonight)](https://github.com/kamagori/github-readme-stats)
@@ -7,9 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mbiscottom/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-biscotto-6b808425a/)
 
-Gosto de programar e aprender. Apaixonado por RPG e jogos eletrônicos no geral.
+I like to program and learn. Passionate about RPG and video games in general.
 
-### Aliados
+### Allies
 
 [![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/bieu-bonfim)
 [![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/patrickeraa)
@@ -17,7 +17,7 @@ Gosto de programar e aprender. Apaixonado por RPG e jogos eletrônicos no geral.
 [![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/lanzyn)
 
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 [![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=yellow)](https://www.jetbrains.com/clion/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)](https://www.jetbrains.com/pycharm/)
