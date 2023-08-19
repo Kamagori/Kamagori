@@ -13,7 +13,7 @@ I like to program and learn. Passionate about RPG and video games in general.
 
 [![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/bieu-bonfim)
 [![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/patrickeraa)
-[![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=green)](https://github.com/gabbrielol)
+[![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=green)](https://github.com/gabridulol)
 [![Allie](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/lanzyn)
 
 
